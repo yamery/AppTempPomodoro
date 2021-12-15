@@ -75,16 +75,17 @@ form button {
 
 .break {
     background: rgb(0, 199, 116);
-    color: #000000;
+    color: white;
 }
 
 .reset {
     background: rgb(250, 69, 109);
-    color: #000000;
+    color: white;
 }
 
 .pause {
     background: rgb(253, 143, 17);
+    color: white;
 }
 
 .resume {
